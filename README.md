@@ -1,4 +1,4 @@
-# Mini Amazon Clone (Vite + React + Supabase + Stripe) — No Netlify
+#  Amazon Clone (Vite + React + Supabase + Stripe)
 
 This is an Amazon-style landing page with:
 - Products on landing page (hooks + props)
